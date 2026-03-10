@@ -1,5 +1,12 @@
 # Changelog
 
+## v0.2.41 (2026-03-10)
+
+### Изменения
+- fix: friends list retry on CORS preflight failure
+
+---
+
 ## v0.2.40 (2026-02-20)
 
 ### Изменения
